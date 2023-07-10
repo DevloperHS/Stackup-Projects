@@ -1,0 +1,15 @@
+QVBJX0tFWTo1NTgzNDlkNjUzZjFiMzk0M2RiOWZjM2NiOWNlYjhhYjozMDdjMjEyNTBjNDI4YzgwMzFlZDgwZDQ4NGI0ODhjNg==
+
+Payment id: e8c12134-8c87-48bc-860c-3de7d007f110
+
+"masterWalletId": "1013098997"
+
+Addr - 0xdce24f6750afd5d729cc4047aaa11a0f17535b6es
+
+bank account identifier - "id": "3dbe098f-3a5c-45a1-83ec-d6e1655aa56c"
+
+NEW WALLET ID : 1013253661 - Master
+
+
+
+
