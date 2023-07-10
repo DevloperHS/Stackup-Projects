@@ -1,0 +1,24 @@
+{
+  "name": "rest-graphql",
+  "version": "1.0.0",
+  "description": "graphql-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "devloper_hs",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.7.0",
+    "apollo-server": "^3.11.1",
+    "dotenv": "^16.0.3",
+    "graphql-import": "^1.0.2"
+  }
+}
