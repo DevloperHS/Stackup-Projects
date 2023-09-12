@@ -2,9 +2,9 @@
 [Fibonacci Calculator](https://devloperhs-fibonacci-app.netlify.app/)
 
 # Concept Used
-- Basic HTML Page
-- CSS for Styling
-- JS for the logic -
+- Basic HTML Page (index.html)
+- CSS for Styling (index.css)
+- JS for the logic (index.js)
 
 Try Catch Finally Statements to handle exceptions and control the flow of execution based on operator input.
 
