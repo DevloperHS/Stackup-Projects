@@ -7,9 +7,25 @@
 [Fun With Numbers](https://devloperhs-mathematics-switch-app.netlify.app/)
 
 # Concept Used
-- Switch Statements to detect changes based on operator selection.
-- Basic HTML Page
-- CSS for Styling
+- Basic HTML Page (index.html)
+- CSS for Styling (index.css)
+- JS for the logic (index.js)
+
+Logic: Switch Statements is used to detect changes based on operator selection.
+
+```
+switch (value){
+	case “one”:
+		<code>
+		break;
+	case “two”:
+		<code>
+		break;
+	default:
+		<code>
+		break;
+}
+```
 
 # Skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
